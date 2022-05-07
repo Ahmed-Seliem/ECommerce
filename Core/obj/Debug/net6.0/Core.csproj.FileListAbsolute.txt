@@ -1,0 +1,12 @@
+E:\full project\ECommerce\Core\bin\Debug\net6.0\Core.deps.json
+E:\full project\ECommerce\Core\bin\Debug\net6.0\Core.dll
+E:\full project\ECommerce\Core\bin\Debug\net6.0\ref\Core.dll
+E:\full project\ECommerce\Core\bin\Debug\net6.0\Core.pdb
+E:\full project\ECommerce\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+E:\full project\ECommerce\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\full project\ECommerce\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+E:\full project\ECommerce\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+E:\full project\ECommerce\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+E:\full project\ECommerce\Core\obj\Debug\net6.0\Core.dll
+E:\full project\ECommerce\Core\obj\Debug\net6.0\ref\Core.dll
+E:\full project\ECommerce\Core\obj\Debug\net6.0\Core.pdb
