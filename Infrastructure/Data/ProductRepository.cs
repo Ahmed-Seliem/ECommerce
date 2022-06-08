@@ -22,7 +22,7 @@ namespace Infrastructure.Data
             return await _context.products
             .Include(p => p.ProductBrand)
             .Include(p =>p.ProductType)
-            .SingleOrDefaultAsync(p =>p.Id == id);
+            .FirstOrDefaultAsync(p =>p.Id == id);
         }
 
         public async Task<IReadOnlyList<Product>> GetProductsAsync()
